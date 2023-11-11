@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "650148645078",
+    "project_id": "tradlinc-b2d54",
+    "storage_bucket": "tradlinc-b2d54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650148645078:android:9447ce7ce55aaf2b8ae177",
+        "android_client_info": {
+          "package_name": "com.example.tradlinc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650148645078-qedkst5i5k625jl7nmclrqjvu0vndcji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATYGh2W7sBIJRjGTcKpyoExpGJuqQWohE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650148645078-qedkst5i5k625jl7nmclrqjvu0vndcji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
